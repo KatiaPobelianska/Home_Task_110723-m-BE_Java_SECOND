@@ -1,0 +1,8 @@
+{
+  "name" : "Kiwi Green",
+  "age" : 25,
+  "address" : {
+    "street" : "123 Main Str",
+    "city" : "London"
+  }
+}
